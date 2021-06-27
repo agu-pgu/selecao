@@ -9,3 +9,7 @@ Não é necessário implementar login ou logout na aplicação. Basta criar um C
 Você tem 2 dias para terminar o desafio e apresentá-lo funcionando e com o respectivo código fonte na entrevista. Boa sorte!
 
 As orientações ficarão disponíveis no repositório **Github** criado especificamente para esta seleção.
+
+
+
+![Alt text](db_model.jpg?raw=true "Title")
