@@ -2,10 +2,7 @@ from flask import Flask, Response, request, render_template
 from core.entities.conductor import Conductor
 from core.entities.vehicle import Vehicle
 from flask_sqlalchemy import SQLAlchemy
-import mysql.connector
 import json
-
-
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = True
